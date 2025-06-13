@@ -1,4 +1,13 @@
-# Calculator
-I created a simple desktop application using Java that serves as a calculator. 
-This application allows users to perform basic mathematical calculations such as addition, subtraction, multiplication, and division. 
-With its clean and user-friendly interface, the calculator provides a convenient tool for quick and accurate computations.
+# 🧮 Calculator
+
+This is a simple yet functional **desktop calculator application** built using **Java**.  
+It supports essential arithmetic operations, including:
+
+- ➕ Addition  
+- ➖ Subtraction  
+- ✖️ Multiplication  
+- ➗ Division  
+
+Designed with a **clean and user-friendly interface**, this application offers a smooth experience for performing **quick and accurate calculations** on your desktop.
+
+Whether you're doing homework, working on finances, or just need a reliable math tool — this calculator is ready to help.
